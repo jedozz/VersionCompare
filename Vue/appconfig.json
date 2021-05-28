@@ -1,0 +1,8 @@
+{
+    "urlBase": {
+        "test": "http://localhost:6542/",
+        "chinese": "http://localhost:6542/"
+    },
+    "apiUrl":"VersionCompare/",
+    "language": "chinese"
+}
